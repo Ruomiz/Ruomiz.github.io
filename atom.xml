@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Ruomiz的博客</title>
+  
+  <subtitle>心有所望，徐徐达之。</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-05-07T14:13:27.771Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Ruomiz</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>ruomiz</title>
+    <link href="http://yoursite.com/2020/05/07/ruomiz/"/>
+    <id>http://yoursite.com/2020/05/07/ruomiz/</id>
+    <published>2020-05-07T14:08:22.000Z</published>
+    <updated>2020-05-07T14:13:27.771Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;如果未指定文章的布局（layout），则默认使用 &lt;code&gt;post&lt;/code&gt; 布局，生成的文档存放于 &lt;code&gt;source\_posts\&lt;/code&gt; 目录下，打开后使用 Markdown 语法进行写作，保存后刷新浏览器即可看到文章。&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="android" scheme="http://yoursite.com/categories/android/"/>
+    
+    
+      <category term="android" scheme="http://yoursite.com/tags/android/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2020/05/07/hello-world/"/>
+    <id>http://yoursite.com/2020/05/07/hello-world/</id>
+    <published>2020-05-07T09:15:53.482Z</published>
+    <updated>2020-05-07T09:15:53.482Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
